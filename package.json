@@ -1,9 +1,11 @@
 {
   "name": "@ada-software/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default ESLint configuration for Ada Software projects",
   "main": "index.js",
   "license": "MIT",
+  "repository": "https://github.com/Ada-Lovelace-Software-House/eslint",
+  "author": "Ada Lovelace Team <desenvolvimento@adasoftwarehouse.com>",
   "peerDependencies": {
     "eslint": "^8.50.0",
     "eslint-config-airbnb": "^19.0.4",
